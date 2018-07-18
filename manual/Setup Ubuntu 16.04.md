@@ -1,1 +1,2 @@
-![test](..\img\3.6.jpg)
+# Setup Instruction for Ubuntu 16.04
+
